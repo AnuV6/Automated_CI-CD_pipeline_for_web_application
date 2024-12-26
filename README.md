@@ -5,6 +5,8 @@ This project demonstrates how to build an automated CI/CD pipeline for a web app
 
 ![Project illustration](https://github.com/user-attachments/assets/442613de-5ffc-4649-ae1d-787c929827c0)
 ![Jenkins](https://github.com/user-attachments/assets/41eea021-f41c-487c-888a-1bc7b71c94f2)
+![SonarQube](https://github.com/user-attachments/assets/0ec5c3e2-39f0-419b-a3c2-4f53b30694e7)
+
 
 
 ---
